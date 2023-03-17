@@ -1,0 +1,2 @@
+# FunPayBot
+FunPayBot
