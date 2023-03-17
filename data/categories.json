@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Сообщества Discord",
+        "node_id": "922",
+        "game_id": "283"
+    },
+    {
+        "name": "Услуги Discord",
+        "node_id": "924",
+        "game_id": "283"
+    },
+    {
+        "name": "Прочее Minecraft",
+        "node_id": "1099",
+        "game_id": "81"
+    },
+    {
+        "name": "Аккаунты Roblox",
+        "node_id": "401",
+        "game_id": "141"
+    },
+    {
+        "name": "Услуги YouTube",
+        "node_id": "705",
+        "game_id": "222"
+    }
+]

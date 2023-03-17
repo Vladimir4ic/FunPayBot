@@ -1,0 +1,306 @@
+>[17.12.2022] [23:59:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[17.12.2022] [23:59:44]: Ошибка при запросе в цикле событий.
+>[17.12.2022] [23:59:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[17.12.2022] [23:59:50]: Ошибка при запросе в цикле событий.
+>[17.12.2022] [23:59:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[17.12.2022] [23:59:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:00:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:50]: Ошибка при получении данных аккаунта: TypeError: Cannot read properties of undefined (reading 'text')
+>[18.12.2022] [00:00:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:00:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:01:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:01:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:02:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:02:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:03:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:03:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:04:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:04:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:05:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:50]: Ошибка при получении данных аккаунта: TypeError: Cannot read properties of undefined (reading 'text')
+>[18.12.2022] [00:05:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:05:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:06:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:06:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:07:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:07:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:08:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:08:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:09:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:09:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:02]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:02]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:08]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:08]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:14]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:14]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:20]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:20]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:26]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:26]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:32]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:32]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:38]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:38]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:44]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:44]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:50]: Ошибка при получении данных аккаунта: TypeError: Cannot read properties of undefined (reading 'text')
+>[18.12.2022] [00:10:50]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:50]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:10:56]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:10:56]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:03]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:03]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:09]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:09]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:15]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:15]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:21]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:21]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:27]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:27]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:33]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:33]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:39]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:39]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:45]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:45]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:51]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:51]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:11:57]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:11:57]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:03]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:03]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:09]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:09]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:15]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:15]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:21]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:21]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:27]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:27]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:33]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:33]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:39]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:39]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:45]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:45]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:51]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:51]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:12:57]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:12:57]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:03]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:03]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:09]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:09]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:15]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:15]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:21]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:21]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:27]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:27]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:33]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:33]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:39]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:39]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:45]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:45]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:51]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:51]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:13:57]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:13:57]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:03]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:03]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:09]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:09]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:15]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:15]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:21]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:21]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:27]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:27]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:33]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:33]: Ошибка при запросе в цикле событий.
+>[18.12.2022] [00:14:39]: Ошибка при запросе (нет доступа к интернету / funpay): FetchError: request to https://funpay.com/runner/ failed, reason: getaddrinfo ENOTFOUND funpay.com
+>[18.12.2022] [00:14:39]: Ошибка при запросе в цикле событий.

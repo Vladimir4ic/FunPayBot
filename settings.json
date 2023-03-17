@@ -1,0 +1,22 @@
+{
+    "token": "clii01c4jdyfx57kog0yibmgt7qk67ey",
+    "telegramBot": true,
+    "telegramToken": "6251701179:AAGTQh7V5ecft2KiiuQUA9b2nsY7Lyvfte0",
+    "telegramUserName": "Vladimir4ic",
+    "alwaysOnline": true,
+    "lotsRaise": true,
+    "goodsStateCheck": true,
+    "autoIssue": true,
+    "autoResponse": false,
+    "autoIssueTestCommand": false,
+    "proxy": {
+        "useProxy": false,
+        "host": "",
+        "port": 3128,
+        "login": "",
+        "pass": "",
+        "type": "http"
+    },
+    "requestsDelay": 0,
+    "watermark": "Спасибо за покупку!"
+}
